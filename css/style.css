@@ -1,0 +1,19 @@
+.box1{
+    background-color: antiquewhite;
+    border:2px solid brown;
+    color:black;
+
+}
+.container{
+    padding-bottom: 20px;
+    width: 850px;
+
+}
+body{
+    background-color: azure;
+}
+
+h1{
+    color: blue;
+
+}
