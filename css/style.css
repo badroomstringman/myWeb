@@ -21,3 +21,19 @@ h1{
     font-style: italic;
     
 }
+.call{
+    border:5px dotted rgb(224, 179, 179) ;
+    width: 450;
+
+}
+button{
+    background-color: black;
+    color: white;
+    width: 200px;
+    padding: 10px 5px;
+
+}
+button:hover{
+    font-size: larger;
+
+}
